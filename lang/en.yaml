@@ -1,0 +1,45 @@
+meta.languageCode: en
+meta.languageName: English
+
+count.flashes:
+  withUnit.one: "{FLASHES} video"
+  withUnit.other: "{FLASHES} videos"
+
+releaseInfo.flashesThatFeature:
+  _: "Videos that feature {TRACK}:"
+  withoutName: "Videos that feature this track:"
+  sticky: "Videos that feature this track:"
+
+releaseInfo.flashesThatPreviouslyFeatured:
+  _: "Videos that previously featured {TRACK}:"
+  withoutName: "Videos that previously featured this track:"
+  sticky: "Videos that previously featured this track:"
+
+flashList.underOther: "other videos:"
+
+misc.alt.flashArt: "video art"
+
+misc.artistCommentary:
+  date.sameDayAsFlash: "same date as this video"
+  date.relativeTo.flash: "this video"
+
+misc.artistLink.chronology.kind.flash: "video"
+
+misc.search:
+  resultKind.flash: "(video)"
+  resultFilter.flash: "Videos"
+
+misc.skippers.flashes: "Videos"
+
+artistRollingWindowPage.contributionKind.flash: "Video"
+
+listingPage.misc.flashContributors: "Video & Game Contributors"
+listingPage.misc.artAndFlashContributors: "Art & Video Contributors"
+
+listingPage.listTracks.inFlashes.byAlbum:
+  title: "Tracks - in Videos (by Album)"
+  title.short: "...in Videos (by Album)"
+
+listingPage.listTracks.inFlashes.byFlash:
+  title: "Tracks - in Videos (by Video)"
+  title.short: "...in Videos (by Video)"
