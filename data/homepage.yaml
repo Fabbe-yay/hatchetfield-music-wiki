@@ -1,0 +1,40 @@
+Homepage: Homepage
+Navbar Links:
+- '[[news-index:-|News]]'
+- '[[listing-index:-|Listings]]'
+- '[[flash-index:-|Videos]]'
+- '[HSMusic Discord](https://preview.hsmusic.wiki/discord/)'
+---
+Section: Official Discography
+---
+Row: album carousel
+Carousel:
+  Anchor Date: November 8, 2026
+  Update Frequency: weekly
+
+  Tiles:
+  - The Guy Who Didn't Like Musicals (Original StarKid Cast Recording)
+  - Black Friday
+  - Nerdy Prudes Must Die (Original StarKid Cast Recording)
+  - Workin Boys (Original StarKid Cast Recording)
+  - The Guy Who Didn't Like Musicals (Live From Los Angeles)
+
+  - Nightmare Time (Original StarKid Cast Recording)
+  - Nightmare Time 2, Vol. 1 (Original StarKid Cast Recording)
+  - Nightmare Time 2, Vol. 2 (Original StarKid Cast Recording)
+  - Nightmare Time 2, Vol. 3 (Original StarKid Cast Recording)
+  - Nightmare Time 2, Vol. 4 (Original StarKid Cast Recording)
+
+---
+Row: actions
+Actions:
+- '[[group-gallery:official-discography|Explore Official!]]'
+- '[[group-gallery:affiliated-discography|Explore Affiliated!]]'
+- '[[group-gallery:fandom|Explore Fandom!]]'
+- '[[group-gallery:beyond|Explore Beyond!]]'
+---
+Section: New Releases
+---
+Row: album grid
+Group: new-releases
+Count: 9

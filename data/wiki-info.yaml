@@ -1,0 +1,20 @@
+Name: Hatchetfield Music Wiki
+
+Enable Flashes & Games: true
+Enable Listings: true
+Enable News: true
+Enable Art Tag UI: true
+Enable Group UI: true
+
+Divide Track Lists By Groups:
+- group:official-discography
+- group:affiliated-discography
+- group:fandom
+- group:beyond
+- group:additional-tracks
+
+
+Footer Content: |-
+    Hatchetfield Music Wiki is an unofficial fan project not in any way affiliated with Team Starkid, made through the system built by the [hsmusic wiki](https://hsmusic.wiki/). Its creation and development are possible through the [collaboration](https://preview.hsmusic.wiki/discord/) and feedback of our awesome and passionate community. Thank you!
+
+    Credits to the [Team Starkid Wiki](https://starkid.fandom.com/wiki/Team_StarKid_Wiki) for making research for this project significantly easier.

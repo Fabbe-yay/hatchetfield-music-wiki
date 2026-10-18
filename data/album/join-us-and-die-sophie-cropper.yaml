@@ -1,0 +1,22 @@
+Album: Join Us (And Die)
+Directory: join-us-and-die-sophie-cropper
+Style: single
+Artists:
+- Sophie Cropper
+Date: October 24 2023
+Date Added: October 3 2026
+Groups:
+- Fandom
+URLs:
+- https://www.youtube.com/watch?v=5h21LeMcwL8
+Cover Art File Extension: png
+Cover Artists:
+- Sophie Cropper
+---
+Track: Join Us (And Die)
+Directory: join-us-and-die-sophie-cropper
+Always Reference By Directory: true
+Duration: 0:57
+Referenced Tracks:
+- track:join-us-and-die
+Needs Lyrics: true

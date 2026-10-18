@@ -1,0 +1,16 @@
+Message: Sort artists alphabetically
+Sort Documents: artists.yaml
+By Properties: [name, directory]
+
+# Additional Tracks
+
+---
+Message: Sort References Beyond Hatchetfield alphabetically
+Sort Documents: album/references-beyond-hatchetfield.yaml
+By Properties: [name, directory]
+Select Documents Under: Section
+---
+Message: Sort Further StarKid tracks alphabetically
+Sort Documents: album/further-starkid-tracks.yaml
+By Properties: [name, directory]
+Select Documents Under: Section
