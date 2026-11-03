@@ -2,8 +2,8 @@ meta.languageCode: en
 meta.languageName: English
 
 count.flashes:
-  withUnit.one: "{FLASHES} video"
-  withUnit.other: "{FLASHES} videos"
+  .one: "{FLASHES} video"
+  .other: "{FLASHES} videos"
 
 releaseInfo.flashesThatFeature:
   _: "Videos that feature {TRACK}:"
