@@ -66,7 +66,6 @@
   "album-art\\songs-from-nerdy-prudes-must-livestream\\cover.png": 513247,
   "album-art\\south-u-and-state\\cover.jpg": 47223,
   "album-art\\tall-enough\\cover.jpg": 58286,
-  "album-art\\tall-enough\\cover.jpg.kra": 1347959,
   "album-art\\the-guy-who-didnt-like-musicals-backing-tracks\\america-is-great-again-backing-track.png": 236834,
   "album-art\\the-guy-who-didnt-like-musicals-backing-tracks\\bonus-join-us-and-die-backing-track.png": 209845,
   "album-art\\the-guy-who-didnt-like-musicals-backing-tracks\\cup-of-poisoned-coffee-backing-track.png": 278101,
@@ -102,11 +101,12 @@
   "album-art\\you-always-get-to-me\\cover.jpg": 23926,
   "bg.jpg": 98933,
   "favicon.ico": 238600,
-  "file-size-cache.json": 7197,
+  "file-size-cache.json": 7308,
   "flash-art\\black-friday.png": 263759,
   "flash-art\\nerdy-prudes-must-die.png": 403297,
   "flash-art\\nightmare-time-episode-1.png": 218681,
   "flash-art\\nightmare-time-episode-2.png": 238302,
   "flash-art\\nightmare-time-episode-3.png": 220173,
+  ".gitignore": 20,
   "_separator": "\\"
 }

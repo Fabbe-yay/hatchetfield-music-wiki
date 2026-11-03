@@ -6,6 +6,7 @@ Direct Descendant Tags:
 - Doug (Archetype)
 - Emma Perkins (Archetype)
 - General MacNamara (Archetype)
+- Grace Chasity (Archetype)
 - Greg (Archetype)
 - Henry Hidgens (Archetype)
 - HFPD Sergeant (Archetype)
@@ -116,6 +117,16 @@ Direct Descendant Tags:
 Tag: General MacNamara (Hivemind, played by Jeff Blim)
 ---
 
+Tag: Grace Chasity (Archetype)
+Direct Descendant Tags:
+- Grace Chasity (Normal)
+---
+Tag: Grace Chasity (Normal)
+Direct Descendant Tags:
+- Grace Chasity (Normal, played by Angela Giarratana)
+---
+Tag: Grace Chasity (Normal, played by Angela Giarratana)
+---
 
 Tag: Greg (Archetype)
 Direct Descendant Tags:
@@ -168,7 +179,14 @@ Tag: HFPD Sergeant (Hivemind, played by Robert Manion)
 
 Tag: Max Jägerman (Archetype)
 Direct Descendant Tags:
+- Max Jägerman (Normal)
 - Max Jägerman (Reincarnated)
+---
+Tag: Max Jägerman (Normal)
+Direct Descendant Tags:
+- Max Jägerman (Normal, played by Will Branner)
+---
+Tag: Max Jägerman (Normal, played by Will Branner)
 ---
 Tag: Max Jägerman (Reincarnated)
 Direct Descendant Tags:
