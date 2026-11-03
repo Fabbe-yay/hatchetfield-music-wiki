@@ -62,6 +62,17 @@ Contributors:
 URLs:
 - https://open.spotify.com/track/5L5N8YOsBxdzR9h9sudBgG
 ---
+Track: Ding-Dong! The Witch Is Dead
+Name Detail: original
+Directory: ding-dong-the-witch-is-dead-original
+Always Reference By Directory: true
+Needs Lyrics: true
+Artists:
+- Harold Arlen
+- E.Y. Harbourg
+URLs:
+- https://open.spotify.com/track/4maOOupWP90I0dXFU9m81b
+---
 Track: I'm Not Afraid of Anything
 Needs Lyrics: true
 Artists:
@@ -406,6 +417,28 @@ Contributors:
 - Michael Patterson
 URLs:
 - https://open.spotify.com/track/6aLmvz0CPeCNHCXK2H5QIC
+---
+Track: Ding-Dong! The Witch Is Dead
+Name Detail: 1966 cover by Harold Arlen
+Directory: ding-dong-the-witch-is-dead-harold-arlen
+Always Reference By Directory: true
+Needs Lyrics: true
+Artists:
+- Harold Arlen
+- Barbra Streisand (Singing)
+Contributors:
+- E.Y. Harbourg (Composition, lyrics)
+- Peter Matz (Arrangement)
+- Thomas Z. Shepard (Producer)
+- Debbie Johnson (Engineer)
+- Frank Dookun (Engineer)
+- Scott Ralston (Mixing engineer)
+- Gil Morales (Mixing engineer)
+- Bernie Grundman (Mastering engineer)
+URLs:
+- https://open.spotify.com/track/3qwynz2FhndThgsaIIqpHD
+Referenced Tracks:
+- track:ding-dong-the-witch-is-dead-original
 ---
 Track: Duality
 Needs Lyrics: true

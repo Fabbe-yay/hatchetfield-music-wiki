@@ -5,8 +5,8 @@ Artists:
 Cover Art File Extension: jpg
 Cover Artists:
 - Unknown Artist
-Date: March 21 2024
-Date Added: September 10, 2026
+Date: August 28 2012
+Date Added: November 3 2026
 URLs:
 - https://open.spotify.com/album/1JgGCvF7dMlJeUkHbJ7wu3
 Color: '#ffa640'
@@ -17,9 +17,15 @@ Groups:
 
 
 Track: Ding Dong The Witch Is Dead
+Suffix Directory: true
+Always Reference By Directory: true
 Needs Lyrics: true
 Contributors:
 - Chris Colfer
 Duration: 3:34
 URLs:
 - https://open.spotify.com/track/37aofxFex8oYG6dKvp8QyY
+Referenced Tracks:
+- track:ding-dong-the-witch-is-dead-harold-arlen
+---
+Track: We Got The Beat
