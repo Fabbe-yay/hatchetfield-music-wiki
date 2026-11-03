@@ -24,9 +24,41 @@ Exclude From Other Group Album Summaries: true
 Description: |-
     This group consists of all that does not fit any of the above categories. Typically, this is used for tracks which are added due to being referenced by a song which does fit one of the above criteria, while the song itself does not.
 
-    Many such tracks will be placed in [[album:references-beyond-hatchetfield]], as it is beyond the purpose of the wiki to have information on every album that has any track at all referenced. If an album were to have 2 or more tracks featured on the wiki however, it is worth considering whether it should be added in its entirety.
+    Many such tracks will be placed in [[album:references-beyond-hatchetfield]], as it is beyond the purpose of the wiki to have information on every album that has any track at all referenced. If an album were to have multiple tracks featured on the wiki however, it is worth considering whether it should be added in its entirety.
 ---
 Category: Artists
+---
+Group: Angela Giarratana
+Closely Linked Artists:
+- Angela Giarratana
+Series:
+- Name: Miscellaneous collaborations
+  Show Album Artists: all
+  Albums:
+  - The Revue II
+  - The Revue III
+  - I, I
+  - Make Your Own Reality
+  - Need to Calm Down
+- Name: Non-StarKid Musicals
+  Show Album Artists: all
+  Albums:
+  - 'Citywalk the Musical: Original Cast Recording'
+---
+Group: Dylan Saunders
+Closely Linked Artists:
+- Dylan Saunders
+Series:
+- Name: Standalone work
+  Show Album Artists: differing
+  Albums:
+  - Confluence
+  - American Tune
+- Name: Guest appearances
+  Show Album Artists: all
+  Albums:
+  - Watsky & Mody
+  - Cardboard Castles
 ---
 Group: Jeff Blim
 Closely Linked Artists:
@@ -41,6 +73,7 @@ Series:
   - Dinner Partay/We Got It Goood
   - 2020 Fuck You
   - Walk Away
+  - WALK AWAY (1 HOUR CHORUS)
   - Dirty Girl
   - Kelly
   - Off the Page
@@ -59,10 +92,24 @@ Series:
   - South U and State
   - <Self Titled>
   - Shades of Blue
-- Name: Noted contributions
+- Name: Contributions
   Show Album Artists: differing
   Albums:
   - 30 Year Old on a Scooter
+---
+Group: Kendall Nicole
+Closely Linked Artists:
+- Kendall Nicole
+Series:
+- Name: Standalone work
+  Show Album Artists: differing
+  Albums:
+  - Davy Jones Locker
+  - You Always Get To Me
+- Name: Contributions
+  Show Album Artists: all
+  Albums:
+  - Tall Enough
 ---
 Group: Mariah Rose Faith Casillas
 Closely Linked Artists:
@@ -74,3 +121,19 @@ Series:
   - Ghosts
   - CinemaScope
   - i don't know you! (Demo)
+- Name: Covers
+  Show Album Artists: differing
+  Albums:
+  - Unpredictable Cover - 5 Seconds of Summer
+  - Unpredictable - 5 Seconds of Summer (Audio Cover)
+  - R U Mine? Slow/Acoustic
+  - Hallelujah
+  - Waiting Game - Banks (Cover)
+  - Gravity - Chase Atlantic
+  - I heard Your Voice in a Dream
+  - Dead Girl Walking - Heathers The Musical
+  - I'm Not Afraid of Anything - Songs For a New World
+- Name: Other
+  Show Album Artists: all
+  Albums:
+  - PLANES
