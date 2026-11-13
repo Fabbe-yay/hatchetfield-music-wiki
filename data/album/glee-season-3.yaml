@@ -1,7 +1,7 @@
 Album: Glee Season 3
 Directory Suffix: glee-season-3
 Artists:
-- Glee
+- Glee Cast
 Cover Art File Extension: jpg
 Cover Artists:
 - Unknown Artist
@@ -21,7 +21,8 @@ Suffix Directory: true
 Always Reference By Directory: true
 Needs Lyrics: true
 Contributors:
-- Chris Colfer
+- Chris Colfer (singing as Kurt Hummel)
+- Lea Michele (singing as Rachel Berry)
 Duration: 3:34
 URLs:
 - https://open.spotify.com/track/37aofxFex8oYG6dKvp8QyY
@@ -29,3 +30,26 @@ Referenced Tracks:
 - track:ding-dong-the-witch-is-dead-harold-arlen
 ---
 Track: We Got The Beat
+Suffix Directory: true
+Always Reference by Directory: true
+Needs Lyrics: true
+Contributors:
+- Heather Morris (singing as Brittany Pierce)
+- Lea Michele (singing as Rachel Berry)
+- Naya Rivera (singing as Santana Lopez)
+Duration: 2:38
+URLs:
+- https://open.spotify.com/track/3P0esrPzlBJXeVaaM9qNMi
+Referenced Tracks:
+- We Got The Beat
+---
+Track: Anything Goes / Anything You Can Do
+Needs Lyrics: true
+Contributors:
+- Lindsay Pearce (singing as Harmony)
+Duration: 2:38
+URLs:
+- https://open.spotify.com/track/7LPm0Luc2Kq96IaOG1xemm
+Referenced Tracks:
+- Anything Goes
+- Anything You Can Do

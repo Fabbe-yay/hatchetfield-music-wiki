@@ -18,6 +18,16 @@ Contributors:
 URLs:
 - https://open.spotify.com/track/6sDlphioFwjWyPYIlXcXql
 ---
+Track: A Whole New World
+Needs Lyrics: true
+Artists:
+- Alan Menken
+- Tim Rice
+- Brad Kane (Singing as Aladdin)
+- Lea Salonga (Singing as Jasmine)
+URLs:
+- https://open.spotify.com/track/5VIfacsWytkcgr7aTt8Tql
+---
 Track: Afterlife in The Limelight
 Needs Lyrics: true
 Artists:
@@ -30,15 +40,24 @@ Contributors:
 URLs:
 - https://www.youtube.com/watch?v=T6cRgVZEIW8
 ---
-Track: A Whole New World
+Track: Anything Goes
 Needs Lyrics: true
 Artists:
-- Alan Menken
-- Tim Rice
-- Brad Kane (Singing as Aladdin)
-- Lea Salonga (Singing as Jasmine)
+- Cole Porter
 URLs:
-- https://open.spotify.com/track/5VIfacsWytkcgr7aTt8Tql
+- https://open.spotify.com/track/61Wh4cqsBmhzsEbGLNulQB
+---
+Track: Anything You Can Do
+Needs Lyrics: true
+Artists:
+- Irving Berlin
+- Ethel Merman
+- Ray Middleton
+Contributors:
+- Jay Blackton
+- Joshua Logan
+URLs:
+- https://open.spotify.com/track/0g7zWHSZpXZxHRtHZ7UU3K
 ---
 Track: Belle
 Needs Lyrics: true
@@ -763,6 +782,13 @@ URLs:
 - https://open.spotify.com/track/0s24n5s7V0RKiDM51WVsgk
 Artists:
 - BANKS
+---
+Track: We Got The Beat
+Needs Lyrics: true
+URLs:
+- https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF
+Artists:
+- The Go-Go's
 ---
 Track: We're All Gonna Die
 Needs Lyrics: true
