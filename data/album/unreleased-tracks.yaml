@@ -3,7 +3,7 @@ Style: meta
 Has Track Numbers: false
 Groups:
 - Affiliated Discography
-Color: '#456f7d'
+Color: '#f6bdbd'
 Listed on Homepage: false
 ---
 Section: Related to Hatchetfield
@@ -129,12 +129,15 @@ Color: '#ff0101'
 ---
 Track: Miss Holloween Trailer
 Needs Lyrics: true
-Contributors:
+Artists:
 - Kim Whalen (Singing & speaking as Miss Holloway)
 - Jeff Blim (Singing)
+Contributors:
 - Curt Mega (Speaking as Duke Keane)
 - Lauren Lopez (Speaking as Donna Daggit)
 - Nick Lang (Speaking)
+Date Posted: May 16, 2026
+Color: '#00d48e'
 Duration: 1:08
 URLs:
 - https://www.youtube.com/live/kUKs-hFIZqI?t=1675
@@ -148,8 +151,10 @@ Referenced Tracks:
 Track: >-
     Song Demo "Single"
 Needs Lyrics: true
-Contributors:
-- Jeff Blim (Singing)
+Artists:
+- Jeff Blim
+Date Posted: May 16, 2026
+Color: '#00d48e'
 Duration: 1:35
 URLs:
 - https://www.youtube.com/live/kUKs-hFIZqI?t=2743
@@ -159,8 +164,10 @@ Referenced Tracks:
 Track: >-
     Song Demo "Dancin' With A Werewolf, Livin' With A Vampire"
 Needs Lyrics: true
-Contributors:
-- Jeff Blim (Singing)
+Artists:
+- Jeff Blim
+Date Posted: May 16, 2026
+Color: '#00d48e'
 Duration: 1:44
 URLs:
 - https://www.youtube.com/live/kUKs-hFIZqI?t=3903
@@ -168,6 +175,8 @@ URLs:
 Track: Glam and the Pentagrams Teaser
 Needs Lyrics: true
 Duration: 34
+Date Posted: May 16, 2026
+Color: '#00d48e'
 URLs:
 - https://www.youtube.com/live/kUKs-hFIZqI?t=8343
 Commentary: |-
@@ -181,8 +190,10 @@ Section: Other StarKid stuff
 ---
 Track: Fancyland Trailer
 Needs Lyrics: true
-Contributors:
-- Jeff Blim (Singing)
+Date Posted: May 16, 2026
+Color: '#00d48e'
+Artists:
+- Jeff Blim
 Duration: 1:02
 URLs:
 - https://www.youtube.com/live/kUKs-hFIZqI?t=4351
@@ -193,24 +204,30 @@ Commentary: |-
 ---
 Track: Song Demo "Everlasting"
 Needs Lyrics: true
-Contributors:
-- Jeff Blim (Singing)
+Date Posted: May 16, 2026
+Color: '#00d48e'
+Artists:
+- Jeff Blim
 Duration: 1:32
 URLs:
 - https://www.youtube.com/live/kUKs-hFIZqI?t=5078
 ---
 Track: Song Demo "Taking Flight"
+Date Posted: May 16, 2026
+Color: '#00d48e'
 Needs Lyrics: true
-Contributors:
-- Jeff Blim (Singing)
+Artists:
+- Jeff Blim
 Duration: 1:55
 URLs:
 - https://www.youtube.com/live/kUKs-hFIZqI?t=5887
 ---
 Track: Song Demo "Jack's Brother"
 Needs Lyrics: true
-Contributors:
-- Matt Dahan (Singing)
+Date Posted: May 16, 2026
+Color: '#00d48e'
+Artists:
+- Matt Dahan
 Duration: 1:25
 URLs:
 - https://www.youtube.com/live/kUKs-hFIZqI?t=6692

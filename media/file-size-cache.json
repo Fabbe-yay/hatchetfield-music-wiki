@@ -101,11 +101,12 @@
   "album-art\\you-always-get-to-me\\cover.jpg": 23926,
   "bg.jpg": 98933,
   "favicon.ico": 238600,
-  "file-size-cache.json": 7099,
+  "file-size-cache.json": 7255,
   "flash-art\\black-friday.png": 263759,
   "flash-art\\nerdy-prudes-must-die.png": 403297,
   "flash-art\\nightmare-time-episode-1.png": 218681,
   "flash-art\\nightmare-time-episode-2.png": 238302,
   "flash-art\\nightmare-time-episode-3.png": 220173,
+  ".gitignore": 20,
   "_separator": "\\"
 }
